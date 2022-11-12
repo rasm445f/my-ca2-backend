@@ -1,4 +1,4 @@
-for the code to work you have to do the following:
+too use the code and its functions you have to do these steps:
 
 1. make sure the JDK is set to version 11.
 
