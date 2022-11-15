@@ -8,12 +8,8 @@ too use the code and its functions you have to do these steps:
 
 4. in the pom.xml file edit the database name to the name of your database.
 
-5. add your remote secrets to your github repository(REMOTE_USER and REMOTE_PW).
-
-6. check that it uses the correct branch main/master in the mavenworkflow.yml file.
+6. check that it uses the correct branch main/master.
 
 7. Add a mysql datasource with the database you are going to use.
 
 8. make sure it uses the correct DB and has the right username and password in persistence.xml. 
-
-9. commit, push and go to GitHub actions.
